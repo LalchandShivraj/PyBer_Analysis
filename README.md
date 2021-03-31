@@ -13,7 +13,7 @@ The PyBer company has requested summary data by city type.
 - Output: PyBer_Challenge.ipynb and .png files attached in the summary (analysis folder).
 
 
-## Summary
+## Summary and Results
 The charts show that the Urban cities account for about two thirds of the business.
 The multiple line chart shows that the three city types trend similarly based on time of year.
 
